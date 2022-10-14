@@ -44,6 +44,7 @@ import { styled } from "..";
 
     strong: {
       fontSize: '$lg',
+      color: '$gray100'
     },
 
     span: {
